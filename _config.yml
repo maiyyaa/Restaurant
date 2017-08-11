@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 deploy:
 type: git
-repo: <repository url>
+repo: https://maiyyaa.github.io/restaurant/.
 branch: gh-pages
 message: hi
